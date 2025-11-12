@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  queuectl:
+    build: .
+    container_name: queuectl
+    volumes:
+      - queuectl-data:/app/data
+    tty: true
+    stdin_open: true
+    entrypoint: ["/bin/bash"]
+
+volumes:
+  queuectl-data:
