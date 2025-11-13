@@ -5,9 +5,10 @@ It provides a lightweight yet powerful framework to enqueue shell commands, mana
 
 ---
 
-## 🎬 Demo Video
+## 🎬 Demo of QueueCTL
 
-📹 **Video Demonstration:** [https://drive.google.com/file/d/1azycxCbUBw0bMBSMxxoQDU0uZ-sOVv5l/view?usp=drive_link](#) *(Add your Drive link here)*
+📹 **Watch Demo:** [Demo of QueueCTL](https://drive.google.com/file/d/1azycxCbUBw0bMBSMxxoQDU0uZ-sOVv5l/view?usp=sharing)
+
 
 ---
 
@@ -378,7 +379,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🎥 Video Submission
 
-📹 **Drive Video Demo Link:** [https://drive.google.com/file/d/1azycxCbUBw0bMBSMxxoQDU0uZ-sOVv5l/view?usp=drive_link](#)
+📹 **Demo of QueueCTL:** [Click here to watch](https://drive.google.com/file/d/1azycxCbUBw0bMBSMxxoQDU0uZ-sOVv5l/view?usp=sharing)
+
 
 ---
 
