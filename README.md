@@ -7,7 +7,7 @@ It provides a lightweight yet powerful framework to enqueue shell commands, mana
 
 ## 🎬 Demo Video
 
-📹 **Video Demonstration:** [Click Here to Watch](#) *(Add your Drive link here)*
+📹 **Video Demonstration:** [https://drive.google.com/file/d/1azycxCbUBw0bMBSMxxoQDU0uZ-sOVv5l/view?usp=drive_link](#) *(Add your Drive link here)*
 
 ---
 
@@ -371,14 +371,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Developed by Suhas**
 
 📧 *3suhashs@gamil.com*  
-🐙 GitHub: [github.com/your-username](https://github.com/Suhas-30)  
+🐙 GitHub: [Suhas-30](https://github.com/Suhas-30)  
 
 
 ---
 
 ## 🎥 Video Submission
 
-📹 **Drive Video Demo Link:** [Add your link here](#)
+📹 **Drive Video Demo Link:** [https://drive.google.com/file/d/1azycxCbUBw0bMBSMxxoQDU0uZ-sOVv5l/view?usp=drive_link](#)
 
 ---
 
